@@ -13,7 +13,6 @@ This repository is intended for students, researchers, and ML practitioners expl
 ## **Algorithms & Datasets**
 ### **1. Classification Algorithms Evaluation**
 - **Dataset:** `diabetes_dataset_sunmitted.csv`
-- **Code Implementation:** _Not available_
 - **Report:** [`ClassificationAlgos.pdf`](Classification_Algos_Evaluation/ClassificationAlgos.pdf)
 - **Description:** Evaluation of various classification models on the **Diabetes dataset**.
 
@@ -22,6 +21,9 @@ This repository is intended for students, researchers, and ML practitioners expl
 - **Code Implementation:** [`Code_Project1.ipynb`](Comparison_Regression_Algos/Code_Project1.ipynb)
 - **Report:** [`Regression_Algos_Evaluation.pdf`](Comparison_Regression_Algos/Regression_Algos_Evaluation.pdf)
 - **Description:** Comparison of multiple **regression models** for predicting housing prices.
+- ![rf](https://github.com/user-attachments/assets/730c86b6-bd44-410c-a655-93fe25c63756)
+
+
 
 ### **3. K-Means & Hierarchical Clustering**
 - **Dataset:** `IrisDatasetSubmitted.csv`
@@ -47,12 +49,15 @@ This repository is intended for students, researchers, and ML practitioners expl
 - **Code Implementation:** [`heart_disease_model_Code.ipynb`](SVM_LogisticRegression_KNN/heart_disease_model_Code.ipynb)
 - **Report:** [`SVM_LogisticReg_KNN.pdf`](SVM_LogisticRegression_KNN/SVM_LogisticReg_KNN.pdf)
 - **Description:** Comparative analysis of **SVM, Logistic Regression, and KNN** for **heart disease prediction**.
+- ![SVM](https://github.com/user-attachments/assets/bf0aa490-34b2-4c2b-a500-a20049f9a710)
+
 
 ### **7. SVR, Decision Tree & Random Forest**
 - **Dataset:** `HousingDataSET.csv`
 - **Code Implementation:** [`SVR_DT_RFCode.ipynb`](SVR_DecisionTree_RandomForest/SVR_DT_RFCode.ipynb)
 - **Report:** [`03_SVR_DT_RF.pdf`](SVR_DecisionTree_RandomForest/03_SVR_DT_RF.pdf)
 - **Description:** Regression models including **Support Vector Regression, Decision Trees, and Random Forest** for housing price prediction.
+![DTimg](https://github.com/user-attachments/assets/1fd84766-1297-4ec9-892f-1055e69e9088)
 
 ---
 
